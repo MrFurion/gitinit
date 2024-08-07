@@ -1,2 +1,5 @@
-package by.trubetski.springmvc.develop;public class Person {
+package by.trubetski.springmvc.develop;
+
+public class Person {
+    private Long id;
 }
